@@ -1,0 +1,1 @@
+Data Integrity (Hashing): Everything in the Git database is checksummed using a secure hash function (SHA-1). Every file, commit, and reference is identified by its unique hash value. This ensures that it is impossible to change any data in the Git history without Git knowing about it.
